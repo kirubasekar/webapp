@@ -15,7 +15,7 @@ using WebApplication2.Services;
 namespace WebApplication2
 {
     public class Startup
-    {
+    {//test commit kiruba
         public Startup(IHostingEnvironment env)
         {
             // Set up configuration sources.
