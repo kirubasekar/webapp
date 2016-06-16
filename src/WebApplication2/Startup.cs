@@ -16,6 +16,7 @@ namespace WebApplication2
 {
     public class Startup
     {//test commit kiruba
+        //test commit 
         public Startup(IHostingEnvironment env)
         {
             // Set up configuration sources.
