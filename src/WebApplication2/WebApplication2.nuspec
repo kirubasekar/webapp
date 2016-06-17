@@ -14,11 +14,8 @@
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
   </PropertyGroup>
- <PropertyGroup>
-  <RunOctoPack>true</RunOctoPack>
-  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <ProduceOutputsOnBuild>True</ProduceOutputsOnBuild>    
+    <ProduceOutputsOnBuild>True</ProduceOutputsOnBuild>  
   </PropertyGroup>
   <ItemGroup>
     <DnxInvisibleContent Include="bower.json" />
